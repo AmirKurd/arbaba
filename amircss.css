@@ -1,0 +1,68 @@
+div  {
+    font-weight: bold;
+    color:white;
+    font-size: 18px;
+}
+a   {
+    color: lightsalmon;
+}
+form    {
+    color: chartreuse;
+    border: 1.2rem;
+    text-align: left; 
+    margin-left: 15px;
+}
+select  {
+    color: lightcoral;
+}
+img + label{
+    font-size: 12px;
+    text-align: center;
+    color: dimgrey;
+    margin-left:60%; 
+}
+label +input {
+border: aquamarine;
+padding: 10px 32px;
+}
+
+body    {
+    background-color: black;
+    }
+
+.p1 {
+    color: aliceblue;
+    font-size:45px;
+    padding: 5% 40% 0% 10%;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    }
+.p2 {
+    color:silver;
+    font-size: 18px;
+    padding: 0% 45% 7% 10%;
+}
+p a {
+    color: silver;
+}
+.bigimages {
+    
+    margin: auto;
+   border-radius: 14px;
+    padding: 10px;
+    width: 350px;
+    
+}
+.imageMargin  {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0% 8% 0% 10%;
+    /* width: 100%;
+    height: 100%;
+    padding: 10px, 20px; */
+}
+.butoon {
+    display: flexbox;
+    justify-content: right;
+}
+
